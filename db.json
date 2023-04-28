@@ -36,7 +36,10 @@
       "reviews": "",
       "about": "In the sewers of Gotham City to the rooftops of the Gotham City, the Penguin (Danny DeVito) wants to know from where he came. Catwoman (Michelle Pfeiffer) plans to kill rich man of Gotham Max Shreck (Christopher Walken) but as he battles with millionaire Bruce Wayne (Michael Keaton) both ladies' men have their own secrets. Bruce Wayne is back as Batman trying to stop the penguin; Max is helping Penguin steal Gotham City while Selina Kyle/Catwoman tries to help Penguin not knowing her man murder target also her murder is helping him but all four men have their goals taking Gotham from crime-winning Gotham City assassination for two men and more money to be Gotham City's number one rich man.",
       "cast": "Michael Keaton, Danny DeVito, Michelle Pfeiffer, Christopher Walken, Michael Gough, Pat Hingle, Michael Murphy",
-      "image": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_FMjpg_UX1000_.jpg"
+      "image": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_FMjpg_UX1000_.jpg",
+      "favorited": "false",
+      "added": "false",
+      "favored": "false"
     },
     {
       "id": "4",
@@ -133,7 +136,15 @@
       "about": "Two years of nights have turned Bruce Wayne into a nocturnal animal. But as he continues to find his way as Gotham's dark knight Bruce is forced into a game of cat and mouse with his biggest threat so far, a manic killer known as The Riddler who is filled with rage and determined to expose the corrupt system whilst picking off all of Gotham's key political figures. Working with both established and new allies, Bruce must track down the killer and see him brought to justice, while investigating his father's true legacy and questioning the affect that he has had on Gotham so far as The Batman.",
       "cast": "Robert Pattinson, Zoë Kravitz, Colin Farrell, Andy Serkis, Paul Dano, Jeffrey Wright, John Turturro, Peter Sarsgaard, Jayme Lawson, Barry Keoghan",
       "image": "https://m.media-amazon.com/images/M/MV5BYTExZTdhY2ItNGQ1YS00NjJlLWIxMjYtZTI1MzNlMzY0OTk4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
+    },
+    {
+      "title": "Batman",
+      "image": "https://cdn.cnn.com/cnnnext/dam/assets/220303115945-07-batsuit-legacy-robert-pattinson-2022.jpg",
+      "director": "",
+      "year": "",
+      "rating": "",
+      "star": "",
+      "id": "HJPtgk1"
     }
   ]
 }
-
